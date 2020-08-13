@@ -60,9 +60,6 @@ Choose a node in the main function graph. Then choose **View traces** to see a l
 
 ![Trace](/images/blank-csharp-trace.png)
 
-
-https://github.com/derting/AwsLambdaWithOracleSimple/blob/master/images/blank-csharp-servicemap.png
-
 # Cleanup
 To delete the application, run the cleanup script.
 
