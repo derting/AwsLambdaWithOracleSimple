@@ -1,0 +1,12 @@
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.csprojAssemblyReference.cache
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.AssemblyInfoInputs.cache
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.AssemblyInfo.cs
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.csproj.CoreCompileInputs.cache
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/bin/Release/netcoreapp3.1/linux-x64/blank-csharp.deps.json
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/bin/Release/netcoreapp3.1/linux-x64/blank-csharp.runtimeconfig.json
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/bin/Release/netcoreapp3.1/linux-x64/blank-csharp.runtimeconfig.dev.json
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/bin/Release/netcoreapp3.1/linux-x64/blank-csharp.dll
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/bin/Release/netcoreapp3.1/linux-x64/blank-csharp.pdb
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.dll
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.pdb
+/Users/derting/Aws.Lambda/aws-lambda-developer-guide/sample-apps/blank-csharp/src/blank-csharp/obj/Release/netcoreapp3.1/linux-x64/blank-csharp.genruntimeconfig.cache

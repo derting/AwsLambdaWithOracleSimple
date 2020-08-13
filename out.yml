@@ -1,0 +1,18 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: An AWS Lambda application that calls the Lambda API.
+Resources:
+  function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: blank-csharp::blankCsharp.Function::FunctionHandler
+      Runtime: dotnetcore3.1
+      CodeUri: s3://lambda-artifacts-20b98bee8539c162/52327c29f53b79a8dd47e3a6368f2046
+      Description: Call the AWS Lambda API
+      MemorySize: 256
+      Timeout: 9
+      Policies:
+      - AWSLambdaBasicExecutionRole
+      - AWSLambdaReadOnlyAccess
+      - AWSXrayWriteOnlyAccess
+      Tracing: Active
